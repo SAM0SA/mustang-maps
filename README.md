@@ -1,0 +1,1 @@
+Mustang Maps is a geographical data correction tool, specifically for Florida. Errors were identified in preprocessing and a user can correct these errors and make changes through different parts of the user interface.
